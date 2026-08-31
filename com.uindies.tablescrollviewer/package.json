@@ -1,0 +1,26 @@
+{
+    "name": "com.uindies.tablescrollviewer",
+    "version": "1.0.0",
+    "displayName": "Table Scroll Viewer",
+    "description": "A recyclable scroll-list extension for Unity uGUI. Recycles only visible nodes, supports keyboard / gamepad / mouse / touch navigation via an OnKeyDown input hook, custom per-row sizes, focus effects, sub-nodes, scrollbar auto fade and table add/remove/update.",
+    "unity": "2022.3",
+    "unityRelease": "56f1",
+    "license": "MIT",
+    "licenseUrl": "LICENSE.md",
+    "documentationUrl": "README.md",
+    "changelogUrl": "CHANGELOG.md",
+    "author": {
+        "name": "uindies",
+        "url": "https://github.com/uindies/TableScrollView-for-Unity"
+    },
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.9"
+    },
+    "samples": [
+        {
+            "displayName": "Table Scroll Viewer Samples",
+            "description": "Vertical, horizontal and scene2 sample scenes with node prefabs, TMP resources and textures demonstrating how to drive a TableScrollViewer (uses TextMeshPro).",
+            "path": "Samples~/TableScrollViewer"
+        }
+    ]
+}
