@@ -1,5 +1,5 @@
 {
-    "name": "com.AJLTools.Tools/com.uindies.tablescrollviewer",
+    "name": "com.uindies.tablescrollviewer",
     "version": "1.0.0",
     "displayName": "Table Scroll Viewer",
     "description": "A recyclable scroll-list extension for Unity uGUI. Recycles only visible nodes, supports keyboard / gamepad / mouse / touch navigation via an OnKeyDown input hook, custom per-row sizes, focus effects, sub-nodes, scrollbar auto fade and table add/remove/update.",
